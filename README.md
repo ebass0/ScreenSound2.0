@@ -30,7 +30,6 @@ O Screen Sound 2.0 é a segunda versão do projeto Screen Sound, um sistema de c
 
 - [IDE para Desenvolvimento C#](https://visualstudio.microsoft.com/visual-cpp-build-tools/)
 
-## Contribuição
 
 Este projeto é uma evolução do projeto original.
 
