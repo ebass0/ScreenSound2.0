@@ -1,6 +1,5 @@
 # Screen Sound 2.0
 
-![Screen Sound Logo](https://example.com/screensound-logo.png)
 
 ## Descrição
 
